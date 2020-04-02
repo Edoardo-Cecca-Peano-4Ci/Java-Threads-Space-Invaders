@@ -14,7 +14,7 @@ import java.awt.Color;
  */
 public class Space extends Canvas{
     public Space() {
-       System.out.println("Setting canvas background and dimentions ");
+       System.out.println("Setting canvas background and dimentions pls wait... ");
        setBackground (Color.BLACK);
        setSize(800, 600);
     }
